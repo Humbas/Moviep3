@@ -1,4 +1,4 @@
-# Movies app - It allows the insert, deletion and editing of movies
+# Multiple file movies app - stores movie data in csv, json 
 
 The app allows users to insert movies from an exiting online database into the app. 
 Also allows to edit the title, year and director of each movie. The image is automatically inserted after 
